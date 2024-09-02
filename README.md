@@ -4,7 +4,6 @@
 
 궁금증과 호기심을 가지고 끝없이 탐구하는 개발자가 되기 위해 노력합니다
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ilyoil2&show_icons=true&theme=tokyonight)
 <!--
 **ilyoil2/ilyoil2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
