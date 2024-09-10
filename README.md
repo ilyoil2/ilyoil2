@@ -5,9 +5,12 @@
 궁금증과 호기심을 가지고 끝없이 탐구하는 개발자가 되기 위해 노력합니다
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ilyoil2?pet-id=1" width="1000" height="120"/>
+<img
+  src="https://render.gitanimals.org/farms/ilyoil2"
+  width="600"
+  height="300"
+/>
 </a>
-
 <!--
 **ilyoil2/ilyoil2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
