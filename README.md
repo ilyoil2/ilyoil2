@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 백엔드를 공부하고 있는 강태양입니다 
+## 궁금증과 호기심을 가지고 끝없이 탐구하는 개발자가 되기 위해 노력합니다
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ilyoil2&fontSize=70&animation=twinkling)
 
@@ -7,9 +10,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ilyoil2&show_icons=true&theme=tokyonight)
 
-백엔드를 공부하고 있는 강태양입니다 
 
-궁금증과 호기심을 가지고 끝없이 탐구하는 개발자가 되기 위해 노력합니다
 
 <!--
 **ilyoil2/ilyoil2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
