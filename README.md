@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=r=gradient&height=300&section=header&text=ilyoil2&fontSize=70&animation=twinkling)
+
+  <p align="center">
+<div align=center>
+
 백엔드를 공부하고 있는 강태양입니다 
 
 궁금증과 호기심을 가지고 끝없이 탐구하는 개발자가 되기 위해 노력합니다
