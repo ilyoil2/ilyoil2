@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=r=gradient&height=300&section=header&text=ilyoil2&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ilyoil2&fontSize=70&animation=twinkling)
 
+  <p align="center">
+<div align=center>
   <p align="center">
 <div align=center>
 
